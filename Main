@@ -1,0 +1,89 @@
+class Main {
+  public static void main(String[] args) {
+    System.out.print("\n\n\n");
+    System.out.println("('-. .-.   ('-.      _ (`-.    _ (`-.                     ('-. .-.   ('-.                                       (`\\ .-') /`   ('-.     ('-.       .-') _  ");
+    System.out.println("( OO )  /  ( OO ).-. ( (OO  )  ( (OO  )                   ( OO )  /  ( OO ).-.                                    `.( OO ),' _(  OO)  _(  OO)     ( OO ) ) ");
+    System.out.println(",--. ,--.  / . --. /_.`     \\ _.`     \\  ,--.   ,--.      ,--. ,--.  / . --. / ,--.      ,--.      .-'),-----. ,--./  .--.  (,------.(,------.,--./ ,--,'  ");
+    System.out.println("|  | |  |  | \\-.  \\(__...--''(__...--''   \\  `.'  /       |  | |  |  | \\-.  \\  |  |.-')  |  |.-') ( OO'  .-.  '|      |  |   |  .---' |  .---'|   \\ |  |\\  ");
+    System.out.println("|   .|  |.-'-'  |  ||  /  | | |  /  | | .-')     /        |   .|  |.-'-'  |  | |  | OO ) |  | OO )/   |  | |  ||  |   |  |,  |  |     |  |    |    \\|  | ) ");
+    System.out.println("|       | \\| |_.'  ||  |_.' | |  |_.' |(OO  \\   /         |       | \\| |_.'  | |  |`-' | |  |`-' |\\_) |  |\\|  ||  |.'.|  |_)(|  '--. (|  '--. |  .     |/  ");
+    System.out.println("|  .-.  |  |  .-.  ||  .___.' |  .___.' |   /  /\\_        |  .-.  |  |  .-.  |(|  '---.'(|  '---.'  \\ |  | |  ||         |   |  .--'  |  .--' |  |\\    |   ");
+    System.out.println("|  | |  |  |  | |  ||  |      |  |      `-./  /.__)       |  | |  |  |  | |  | |      |  |      |    `'  '-'  '|   ,'.   |   |  `---. |  `---.|  | \\   |   ");
+    System.out.println("`--' `--'  `--' `--'`--'      `--'        `--'            `--' `--'  `--' `--' `------'  `------'      `-----' '--'   '--'   `------' `------'`--'  `--'   ");
+    System.out.println("\n");
+    System.out.println("               (                                (");
+    System.out.println("                )           )        (                   )");
+    System.out.println("              (                       )      )            .---.");
+    System.out.println("          )              (     .-\"\"-.       (        (   /     \\");
+    System.out.println("         ( .-\"\"-.  (      )   / _  _ \\        )       )  |() ()|");
+    System.out.println("          / _  _ \\   )        |(_\\/_)|  .---.   (        (_ 0 _)");
+    System.out.println("          |(_)(_)|  ( .---.   (_ /\\ _) /     \\    .-\"\"-.  |xxx|");
+    System.out.println("          (_ /\\ _)   /     \\   |v==v|  |<\\ />|   / _  _ \\ '---'");
+    System.out.println("           |wwww|    |(\\ /)|(  '-..-'  (_ A _)   |/_)(_\\|");
+    System.out.println("           '-..-'    (_ o _)  )  .---.  |===|    (_ /\\ _)");
+    System.out.println("                      |===|  (  /     \\ '---'     |mmmm|");
+    System.out.println("                      '---'     |{\\ /}|           '-..-'");
+    System.out.println("                                (_ V _)");
+    System.out.println("                                 |\"\"\"|");
+    System.out.println("                                 '---'");
+    System.out.println("\n\n");
+    System.out.println("                                    _____");
+    System.out.println("                               _.-\"\"     \"\"-._");
+    System.out.println("                             .'               '.");
+    System.out.println("                . . . . .  .'                   '.");
+    System.out.println("                !-!-!-!-! /   .-..                \\");
+    System.out.println("                !_!,!_!_!/    |__H _    .-\\_)`-.   \\");
+    System.out.println("              ,/`,/'_`\\,`\\,  [____|_]  /.-. .-,_\\   ;");
+    System.out.println("            ,/',/'/_|_\\`\\,`\\,|=   |=|      \\(       ;");
+    System.out.println("          ,/' |/ ||\"\"\"|| \\| `\\, = | |       `       |");
+
+    System.out.println("          |   #| ||___|| | #  |=  | |               |");
+    System.out.println("        ,/' #  | [_____] |   #`\\, |=|               ;");
+    System.out.println("      ,/',-----'      =  '-----,`\\--'---,/\\,--,    / ");
+    System.out.println("     `\"\"|   .;;;,=      ,;;;,   |#  # ,//  \\\\,'\\, / ");
+    System.out.println("        | =//___\\\\ =   //___\\\\ =| # ,//',;;,'\\\\,#\\,");
+    System.out.println("        |  ||   ||     ||   ||  |#,//' //||\\\\ '\\\\,`\\,");
+    System.out.println("        |  ||   ||     ||   ||  |-|/| ||_||_|| |\\|_ _|");
+    System.out.println("        |  ||   ||   = ||   ||  |=  | |.----.|=|___]");
+    System.out.println("        |= ||___|| =   ||___|| =|  =| ||    || | ||");
+    System.out.println("        | [_______]   [_______] |--.| ||____|| | ||");
+    System.out.println("        ;_______=______=_____ __;   |[________]| ||");
+    System.out.println("      ,/'#    #   #      #       #  '----------''\\|");
+    System.out.println("    ,/'    #        #       #         #     #   # '\\,");
+    System.out.println("  ,/'___#____#__#_____#___#_______#_______#____#___#'\\,");
+    System.out.println("  `\"\"[____________________________________________]|\"\"`");
+    System.out.println("     _[_|   .-----.  =-       ___________    ||_]_||");
+    System.out.println("    |  _| .\",-\"|\"-,',   () = |.--..-..--.| = |_  |||");
+    System.out.println("    |_/ |/ /_\\_|_/_\\ \\ /__\\  ||__||_||__||   | \\_|\\\\");
+    System.out.println("    (_) || .-------. | |  |  |.--..-..--.|  =| (_) ||");
+    System.out.println("    / \\ || |       | | |()|  ||__||_||__||   | / \\ ||");
+    System.out.println("    \\_/ || '-------' |  )(   |___________|   | \\_/ ||");
+    System.out.println("    (_) ||.---------.|  \\/   |.---------.|=  | (_) ||");
+    System.out.println("    / \\ |||   ___   ||    =  ||         ||   | / \\ ||");
+    System.out.println("    \\_/ |||  {___}  ||       ||         ||   | \\_/ ||");
+    System.out.println("    (_) |||  ((_))  || -=   =||_________|| = |_(_)_//");
+    System.out.println("    / \\ |||   '-'   ||   _ .-'-----------'-. | / \\__\\");
+    System.out.println("    \\_/_|||       ()||  [_]\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"[_]\\_/\\\\\\\\");
+    System.out.println("   [ __ ]||         || =| |==.==.==.==.==.==| |__]|||||");
+    System.out.println("    |  ||||         ||  | |  |  |  |  |  |  | |  |====|");
+    System.out.println("    |__|||;).       ||--|_|=='=='=='=='=='==|_|  ||||||");
+    System.out.println("  _ ____/`---`\\ ____||_.____._____._____.____.|__|////");
+    System.out.println(" |     |  9.9  |=====' |    |    /  \\    \\   |    |-'");
+    System.out.println(" '------\\ www /---'----'----'---'----'---'---'----'");
+    System.out.println("         `---''");
+
+    System.out.println("\n");
+    System.out.println("                                            ,   ,");
+    System.out.println("             ,    ,    /\\   /\\             /(   )\\");
+    System.out.println("            /( /\\ )\\  _\\ \\_/ /_            \\ \\_/ /   , /\\ ,");
+    System.out.println("            |\\_||_/| < \\_   _/ >           /_   _\\  /| || |\\");
+    System.out.println("            \\______/  \\|0   0|/           | \\> </ | |\\_||_/|");
+    System.out.println("              _\\/_   _(_  ^  _)_          (_  ^  _)  \\____/");
+    System.out.println("             ( () ) /`\\|V\"\"\"V|/`\\       /`\\|IIIII|/`\\ _\\/_");
+    System.out.println("               {}   \\  \\_____/  /       \\  \\_____/  /  ()");
+    System.out.println("               ()   /\\   )=(   /\\       /\\   )=(   /\\  ()");
+    System.out.println("               {}  /  \\_/\\=/\\_/  \\     /  `-.\\=/.-'  \\ ()");
+
+    
+  }
+}
